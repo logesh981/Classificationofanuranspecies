@@ -1,7 +1,4 @@
-# Classificationofanuranspecies
-Certainly! Here's a formatted version for a `README.md` file based on the information provided:
 
----
 
 ## Dataset Download
 
